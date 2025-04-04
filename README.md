@@ -5,7 +5,7 @@ This repository contains 20 data science and analytics project ideas, each organ
 ---
 
 ## Folder Structure
-1. **Customer Lifetime Value**
+1. **Customer Churn Classification**
     - [CLV Prediction Model](./CustomerAnalytics/CLVPrediction.md)
 
 2. **Forecasting and Optimization**
