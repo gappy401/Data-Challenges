@@ -33,37 +33,19 @@ This repository contains 20 data science and analytics project ideas, each organ
 9. **Real-Time Analytics**
    - [Trending Sentiment Analysis](./RealTimeAnalytics/TrendingSentiment.md)
 
-10. **Business Intelligence**
-    - [Retail Business Intelligence Dashboard](./BusinessIntelligence/RetailDashboard.md)
-
-11. **Machine Learning Pipelines**
-    - [End-to-End ML Pipeline](./MLPipelines/ProductReturnRates.md)
-
-12. **Anomaly Detection**
-    - [Log Anomaly Detection System](./AnomalyDetection/LogAnomalyDetection.md)
-
-13. **Recommendation Systems**
-   - [Personalized Search and Recommendation Engine](./RecommendationSystems/PersonalizedSearch.md)
-
-14. **Fraud Detection**
+10. **Fraud Detection**
     - [Real-Time Fraud Detection System](./FraudDetection/FraudDetection.md)
 
-15. **Embedded Analytics**
+11. **Embedded Analytics**
     - [Embedded Analytics for SaaS Product](./EmbeddedAnalytics/SaaSInsights.md)
 
-16. **Deep Learning Applications**
-    - [Image Recognition with Deep Learning](./DeepLearning/ImageRecognition.md)
-
-17. **Data Integration**
+12. **Data Integration**
     - [Supply Chain Data Integration and Analysis](./DataIntegration/SupplyChainIntegration.md)
 
-18. **Predictive Maintenance**
+13. **Predictive Maintenance**
     - [Predictive Maintenance Model](./PredictiveMaintenance/MachineryHealth.md)
 
-19. **IoT Analytics**
-    - [Sensor Data Analysis for Predictive Maintenance](./IoTAnalytics/IoTDataInsights.md)
-
-20. **ML Workflows**
+14. **ML Workflows**
     - [Automated Deployment for ML Models](./MLWorkflows/ModelDeployment.md)
 
 
