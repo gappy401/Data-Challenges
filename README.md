@@ -1,7 +1,5 @@
 # Data Science and Analytics Projects
 
-This repository contains 20 data science and analytics project ideas, each organized into thematic folders for clarity and ease of navigation.
-
 ---
 
 ## Folder Structure
